@@ -10,4 +10,12 @@ URL: https://pypi.org/project/pynput/
 How to: pip install pynput OR python install pynput OR pip3 install pynput(python3)
 
 ## Component A: Prints a key when typed
+
+## Component B: Store the logged key in text file every 10 keys pressed
+
+## Component C: Replace space key with new line in text file
+
+
+
+
  
